@@ -1,0 +1,50 @@
+{
+ "fingerprints":
+ [
+  {
+   "name":"CINC ZCL_EVENT_GEN_TEST_DATA=======CCAU.abap",
+   "fingerprint":"2JOuIMwPNdM/lFLqeL4mF/7xcEiXe5WFdVjRxigbSki+oUG6ZSc2N43y915qIig0b0kFc/Zd5iIDe3vJlAcOIQ=="
+  },
+  {
+   "name":"CINC ZCL_EVENT_GEN_TEST_DATA=======CCDEF.abap",
+   "fingerprint":"J4KNlbDvI0lRdxg+yd2eqZ0/2WTKOkhg3AHRAAwaRqM4v9eVxK7gud1RmqBaIpr6+EpVSNcD+Zj/wPneG7Mb9w=="
+  },
+  {
+   "name":"CINC ZCL_EVENT_GEN_TEST_DATA=======CCIMP.abap",
+   "fingerprint":"JBkKoA/SyIJhSveT7sfJRwHqykaR+DTO41m1M/6TYglHXzC3geCjUwwjVAobEjUofdfH3t8XuSApIeFuvXeZvw=="
+  },
+  {
+   "name":"CINC ZCL_EVENT_GEN_TEST_DATA=======CCMAC.abap",
+   "fingerprint":"Pb4Gn2OCtX+TikSOH8P3tzabjqOHChl2OdbwOhFu+tr+PD2pVjBkfvLpgBN9X9iXY4TGyKvN8EbqKPcgoTTQmg=="
+  },
+  {
+   "name":"CLAS ZCL_EVENT_GEN_TEST_DATA.asx.json",
+   "fingerprint":"WdAvOoa1GYlIRbVF/tdLu/sLakclYMBp6GLfaKIAcr2T5949poTcNQSc3pSc8S/WvS0iJTtkaxHPXG9xjbSJ0g=="
+  },
+  {
+   "name":"CLSD ZCL_EVENT_GEN_TEST_DATA.abap",
+   "fingerprint":"MdJR4OgLI18mEdRmRiVfrX2haQ1s3HmYxCkLAIR7WU/akSe4J6IFc/V78IJnD5kgIrBdVLk3uIY5Xkqb9NV/rw=="
+  },
+  {
+   "name":"CPRI ZCL_EVENT_GEN_TEST_DATA.abap",
+   "fingerprint":"M7UbRrDO4CVfGmGzsStqzSdZG/aJNQbuCs1GXTpjsRBWeB+W6PItp8s0EawiLcJ2aGXjoX1Y+PEPXxhvEpvecw=="
+  },
+  {
+   "name":"CPRO ZCL_EVENT_GEN_TEST_DATA.abap",
+   "fingerprint":"3NPAAIvd3KiPWhsnE5byweVzk1OfH47AJ3YM2viMkTMlOkxNOu1c5Ij0Y6xVCtg3rVhRdbsSDwP7/3nL7FAI9Q=="
+  },
+  {
+   "name":"CPUB ZCL_EVENT_GEN_TEST_DATA.abap",
+   "fingerprint":"X7fW8FrEZ2qyYF7A4kHagKsWD3joNC6z1MDXJDHim0J7zkAXAmcTGEVbOaB8QCwkRGM2z53CCcdE1FOj7qk3Cw=="
+  },
+  {
+   "name":"METH IF_OO_ADT_CLASSRUN~MAIN.abap",
+   "fingerprint":"DJeGDSkVkf0RocHwebXpaNArxpogY9q98OpFVdaytqW2P2fsRVPeWo0IfdiLCPj4EiXlVL1s3ix9nxnfXDZ6MQ=="
+  },
+  {
+   "name":"REPS ZCL_EVENT_GEN_TEST_DATA=======CT.abap",
+   "fingerprint":"PYxNcdlS5Jbfe+4gBq6Jp2EOsP9xw+MKQKQS5ZxRaeogJ8sIo3nA1CfPwBzEfuObRktZ2QRenouzu3bL2EzkXw=="
+  }
+ ],
+ "fingerprintAll":"DCmtOFKAHocf4b3ptSyC7tN2yDEl45gM5ESFu3OYZ8yo6sBUhSGjxT9kTTqUb2Nsrz519L6HX1hplrV4pGVtiw=="
+}
